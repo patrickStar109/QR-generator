@@ -2,6 +2,9 @@
 
 ![qrgenmelon](https://github.com/patrickStar109/QR-generator/assets/61595428/844566a8-9705-4b9e-9a37-dd3667774351)
 
+TO BUY DM ME HERE:
+Discord: NoFace#7674
+Telegram: @NoFaceMelon
 
 The QR Generator is a lightweight and super-fast tool for generating QR codes effortlessly. With no ads and an affordable price of just 15 euros, it provides a hassle-free experience for all your QR code needs.
 
